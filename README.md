@@ -1,1 +1,1 @@
-# Store -
+# Store - Fullstack Phoenix App
